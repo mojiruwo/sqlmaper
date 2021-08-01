@@ -1,0 +1,4 @@
+.idea
+./relation/*.json
+./sqlmaper/settings.py
+__pycache__/
